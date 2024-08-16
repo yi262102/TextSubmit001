@@ -9,7 +9,7 @@ struct Index {
         .onClick(()=>{
 
         })
-        .id('HelloWorld')
+        .id('Helloyou')
         .fontSize(50)
         .fontWeight(FontWeight.Bold)
         .alignRules({
