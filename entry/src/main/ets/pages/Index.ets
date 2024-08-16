@@ -6,6 +6,9 @@ struct Index {
   build() {
     RelativeContainer() {
       Text(this.message)
+        .onClick(()=>{
+
+        })
         .id('HelloWorld')
         .fontSize(50)
         .fontWeight(FontWeight.Bold)
